@@ -1,4 +1,6 @@
-.env
+.env.development
+.env.production
+.env.test
 venv
 tests
 requirements.txt
